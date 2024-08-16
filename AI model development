@@ -30,5 +30,19 @@ Catogrised data = pie chart
 
 ASsignemnt 1 - select a dataset from kagle or data.ai or github and prepare the forst dashboard, identify problem areas and develope insights.
 
+## crafting AI skills - Guest lecture
 
+automation - deterministic sysetem.
+autonomous - probabilistic , based on context.
+
+RAGs - Retrival automated Generation, 
+
+Google vertex - 
+use the Vertex Al SDK for Python, make sure that the service account initializing the client has the Vertex Al Service Agent (roles/aiplatform.serviceAgent) IAM role
+
+Open Cloud Shell. Cloud Shell is an interactive shell environment for Google Cloud that lets you manage your projects and resources from your web browser.
+
+In the Cloud Shell, set the current project to your Google Cloud project ID and store it in the projectid shell variable:
+
+Enable the IAM, Compute Engine, Notebooks, Cloud Storage, and Vertex Al APIs.
 
