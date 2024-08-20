@@ -46,3 +46,13 @@ In the Cloud Shell, set the current project to your Google Cloud project ID and 
 
 Enable the IAM, Compute Engine, Notebooks, Cloud Storage, and Vertex Al APIs.
 
+## POWER QUERY EDITOR
+
+-> transform data
+-> first row get sensed as headers ot do mannualy
+-> Split data using delimiters 
+-> change data type in trasform
+-> 
+
+NORMALISATION in excel
+
