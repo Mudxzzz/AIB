@@ -55,4 +55,20 @@ Enable the IAM, Compute Engine, Notebooks, Cloud Storage, and Vertex Al APIs.
 -> 
 
 NORMALISATION in excel
+splitting lage data into smaller unoits to ensure minimum data duplicacy and engancing data intigrity, 
 
+Data in PowerBI
+
+1. Ensurting primary Key in all tables this attribute should be NOT NULL and UNIQUE.
+2. Identifieng the relevent foriegn key.
+3. data integrity constraints - 
+    a) data insertion contaraints 
+    b) data updation constraints
+    c) data deletion constraints
+
+
+Automatic - predicted a finite number of situations and defined their reponses, accordingly we programe the system. IF THEN ELSE statement
+Autonomous - we train the system fro finte number of situations and responses but the system will keep updating its knowledgebase under every new circumstances. Learning model
+
+False AI is a system which is automatic that is trained with a large number of if, then, else.
+True AI are the systems which are trained with finite number of situation and responses but keep updating itself.
