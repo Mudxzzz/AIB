@@ -72,3 +72,31 @@ Autonomous - we train the system fro finte number of situations and responses bu
 
 False AI is a system which is automatic that is trained with a large number of if, then, else.
 True AI are the systems which are trained with finite number of situation and responses but keep updating itself.
+
+AI lifecycle:
+
+Design 
+Deploy
+Develop
+
+NVivo - qualitative data research : NCapture- extension, capture webpage and analyse the text in nvivo 
+
+chrome extension - web scrapping, can use in python
+
+Data Wrangling - convert data from raw form to desired data form.
+evaluation - accuracy of the model.
+
+move to production - 
+
+1- identifying the business problem 
+2- what processes are in use to solve this problem ?
+3- how do you se AI improving current process?
+4- what are the KPIs that will help you track progress?
+5- What resources will be required ?
+6- how to break the problem into iterative sprints?
+
+Problem categories 
+Classification - into type A or B, using clustering.
+Regression - predict defined number with defined parameters, Linear Regression.
+Recommendation - identifying patterns, 
+
