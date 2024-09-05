@@ -100,3 +100,8 @@ Classification - into type A or B, using clustering.
 Regression - predict defined number with defined parameters, Linear Regression.
 Recommendation - identifying patterns, 
 
+Decision tree, used when data set has more than 1 independent variable and there is a combination of decision trees possible so we calculate average of the outcomes for multiple decision trees for making predication, this is called random forest. 
+
+Logistic Regression- the situations where outcome variable of the dependent variable can have only 2 starts then we apply log reg.
+Ex- on x axis - no of interaction with the customer , y axis - sales done or not done. outcome in form of binary.
+
